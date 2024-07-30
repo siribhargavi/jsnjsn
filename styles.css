@@ -1,0 +1,12 @@
+body{
+    font-family: Arial;
+}
+header{
+   
+    color:white;
+}
+.header-top{
+    background-color: rgb(37, 199, 196);
+    display: flex;
+    justify-content: center;
+}
